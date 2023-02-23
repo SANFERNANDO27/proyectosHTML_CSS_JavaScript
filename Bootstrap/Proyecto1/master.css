@@ -1,0 +1,75 @@
+#alert1{
+	text-align: center;
+}
+#box1{
+	margin-left: 25%;
+	display: inline-block;
+}
+.card{
+	display: inline-block;
+	margin-right: 50px;
+}
+#garrysmodimg{
+	width: 200px;
+	height: 200px;
+	margin-left: 15%;
+	margin-top: 5px;
+}
+#left4deadimg{
+	width: 225px;
+	height: 225px;
+	margin-left: 11%;
+	margin-top: 5px;
+}
+#minecraftlogoimg{
+width: 50px;
+height: 50px;
+}
+#carouselExampleCaptions{
+	width: 100%;
+	height: 600px;
+}
+.imgminecraft{
+	width: 100%;
+	height: 600px;
+}
+#home1{
+	text-decoration: none;
+	margin-bottom: 25px;
+	font-size: 22.5px;
+	color: grey;
+}
+#navbar1{
+
+}
+.mods{
+	margin-top: 40px;
+	margin-left: 40px;
+	margin-bottom: 40px;
+	display: inline-block;
+	
+}
+.cardmods{
+	display: inline-block;
+	position: relative;
+	margin-bottom: 45px;
+}
+#garrysmodlogo{
+	height: 200px;
+	width: 200px;
+	margin: 40px;
+	display: inline-block;
+}
+#garrysmodtitle{
+	display: inline-block;
+	font-size: 100px;
+
+}
+#garrysmodbody{
+	background-color: #717171;
+background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='4' height='4' viewBox='0 0 4 4'%3E%3Cpath fill='%23000000' fill-opacity='0.4' d='M1 3h1v1H1V3zm2-2h1v1H3V1z'%3E%3C/path%3E%3C/svg%3E");
+}
+#garrysmodnavbar{
+	background-color: rgba(0,0,0,0.5)
+;
+}
