@@ -1,0 +1,12 @@
+p{
+	display: inline;
+	color: red;
+	visibility: hidden;
+}
+form div{
+	margin-bottom: 20px;
+}
+#p1{
+	visibility: visible;
+	color: black;
+}

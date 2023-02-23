@@ -1,0 +1,35 @@
+body{
+	background-color: grey;
+}
+button{
+	width: 45px;
+	height: 45px;
+	position: absolute;
+	top: 50%;
+	background-color: white;
+	border-style: solid;
+	border-color: white;
+	border-width: 5px;
+	border-radius: 50%;
+}
+button:hover{
+	width: 50px;
+	height: 50px;
+	transition: 1s;
+}
+.slider{
+	height: 100%;
+	weight: 100%;
+	margin-left: 7%;
+}
+.slider img{
+	height: 100%;
+	weight: 100%;
+	margin-left: 7%;
+}
+#siguiente{
+	right: 0;
+}
+#anterior{
+	left: 0;
+}

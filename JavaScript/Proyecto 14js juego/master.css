@@ -1,0 +1,11 @@
+#box1{
+	border-style: solid;
+	border-color: blue;
+	border-width: 1px;
+	border-radius: 50%;
+	width: 200px;
+	height: 200px;
+	background-color: blue;
+	display: none;
+	position: absolute;
+}
