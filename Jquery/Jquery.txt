@@ -1,0 +1,5 @@
+codigo script: https://code.jquery.com/jquery-3.6.0.min.js
+pagina: https://jquery.com/
+cosas que se pueden hacer con Jquery: https://api.jquery.com/category/events/
+otras cosas que se pueden hacer con Jquery: https://jqueryui.com/
+

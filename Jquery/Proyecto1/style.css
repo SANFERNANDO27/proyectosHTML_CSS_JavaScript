@@ -1,0 +1,17 @@
+.clickeado{
+	background-color: grey;
+	color: green;
+}
+#cuadrado{
+	width: 100px;
+	height: 100px;
+	background-color: orange;
+	margin-top: 10px;
+}
+#cuadrado2{
+	width: 100px;
+	height: 100px;
+	background-color: red;
+	margin-top: 10px;
+	position: relative;
+}
