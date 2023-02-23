@@ -1,0 +1,16 @@
+#contenedor{
+	text-align: left;
+}
+#contenedor div{
+	width: 200px;
+	height: 200px;
+	background-color: red;
+	display: inline-block;
+	text-align: center;
+	
+}
+#contenedor2{
+	position: absolute;
+	top: 0px;
+	left: 0%;
+}

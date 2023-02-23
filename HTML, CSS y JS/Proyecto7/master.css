@@ -1,0 +1,43 @@
+.barranav{
+	position: absolute;
+	margin: 0;
+	height: 100%;
+	width: 150px;
+	background-color: #01EB0F;
+	overflow: auto;
+}
+.barranav a{
+	display: block;
+	color: red;
+	opacity: 0.8;
+	text-decoration: none;
+	padding: 20px;
+	float: none;
+	font-size: 20px;
+	font-family: cursive;
+	
+}
+a:hover{
+	cursor: pointer;
+	background-color: grey;
+	transition: 1s;
+	font-size: 22px;
+}
+.contenido{
+	margin-left: 155px;
+	padding: 16px;
+}
+@media screen and (max-width: 750px){
+	.barranav{
+		width: 100%;
+		height: auto;
+		position: relative;
+	}
+	.contenido{
+		margin-left: 0px;
+	}
+	.barranav a{
+		float: left;
+		display: inline-block;
+	}
+}

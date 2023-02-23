@@ -1,0 +1,15 @@
+.liu{
+	color: greenyellow;
+}
+ul li{
+	color: orange;
+}
+ul > li{
+	color: blue;
+}
+ul li:first-child{
+	color: green;
+}
+p + p{
+	color: yellow;
+}
