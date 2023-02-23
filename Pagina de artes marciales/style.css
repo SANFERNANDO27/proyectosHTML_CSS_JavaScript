@@ -1,0 +1,54 @@
+body{
+	
+}
+
+.navbar-custom{
+	background-color: black;
+}
+.navbar-custom a{
+	color: white;
+	font-size: 18px;
+}
+.navbar-custom a:Hover{
+	color: grey;
+	font-size: 19px;
+}
+#container1{
+	
+}
+.price{
+	color: grey;
+}
+.product{
+	display: flex;
+	width: 100%;
+}
+.product2{
+	width: 425px;
+	height: 323px;
+}
+#productText{
+	margin-top: 50px;
+}
+#carouselExampleFade{
+	display: inline-block;
+}
+.btnOZ{
+	border-radius: 8px;
+	border-color: transparent;
+}
+.btnOZ:hover{
+	background-color: grey;
+}
+.btnProductColor{
+	width: 25px;
+	height: 25px;
+}
+.btnProductColor:hover{
+	width: 26px;
+	height: 26px;
+}
+.product21{
+	width: 212.5px;
+	height: 161.5px;
+}
